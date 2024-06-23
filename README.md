@@ -1,5 +1,11 @@
 全名k歌逆向, 全名k歌xposed, 全名k歌hook, 发卡片, 发消息, 自动脚本
 
+# 环境要求
+1. xposed,edxposed,lsp环境
+2. 自定义rom加载
+3. 太极,vapp等
+4. 可改机的云机 (可以找我,有专业团队维护, 解决技术问题, 比如过风控,平板模式等等)
+
 # 效果
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/c863af0318ff415ab23216656e6a919d.png)
 主要代码
